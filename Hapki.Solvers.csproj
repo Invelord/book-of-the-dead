@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{8B2DC5D4-3410-32E0-3F6F-66F7AF5D8532}</ProjectGuid>
+    <ProjectGuid>{D14D069D-61AD-E055-57A1-E5D497166D82}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Hapki.Solvers</AssemblyName>

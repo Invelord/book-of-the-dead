@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{07A02B1C-9EAB-C4FF-B999-3B1B14E29533}</ProjectGuid>
+    <ProjectGuid>{E0654C3F-FDEE-BEE6-7352-EDAB9794AEA1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>TerrainFoley</AssemblyName>
@@ -1197,7 +1197,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Hapki.Spatial.csproj">
-      <Project>{D2FD42AA-DDD9-7AA3-2702-28A30FC84E2A}</Project>
+      <Project>{39994E20-9417-CB5F-7C07-CDEC068F36E7}</Project>
       <Name>Hapki.Spatial</Name>
     </ProjectReference>
   </ItemGroup>

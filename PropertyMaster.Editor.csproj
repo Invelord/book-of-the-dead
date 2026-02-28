@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{201485C9-5236-F6B6-A8BD-DFE3E898F521}</ProjectGuid>
+    <ProjectGuid>{56B6FE44-D651-5256-2F27-427C67DB3E03}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>PropertyMaster.Editor</AssemblyName>
@@ -1214,7 +1214,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="PropertyMaster.csproj">
-      <Project>{4C9EC328-97B3-F580-EE61-2F11E32389DD}</Project>
+      <Project>{D1B0C4B3-EAAD-7038-ACAD-F54AD777376F}</Project>
       <Name>PropertyMaster</Name>
     </ProjectReference>
   </ItemGroup>

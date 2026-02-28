@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{205F804C-02C2-8429-AE68-BD3E2C5E834F}</ProjectGuid>
+    <ProjectGuid>{22B789A8-6229-3E0B-95D7-E2D1F5D32235}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Hapki.Editor</AssemblyName>
@@ -1212,7 +1212,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Hapki.csproj">
-      <Project>{1A76A123-3E6E-F834-5BFB-ED57AB6212A4}</Project>
+      <Project>{78337DFF-15EE-4637-D4D7-71FBB2A76373}</Project>
       <Name>Hapki</Name>
     </ProjectReference>
   </ItemGroup>

@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{83450D76-4A2C-F5E4-0EFC-F1D68C238813}</ProjectGuid>
+    <ProjectGuid>{ED578DE2-50E7-E7C7-1CF3-336E45E4030E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>WindControlEd</AssemblyName>
@@ -1210,7 +1210,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="WindControl.csproj">
-      <Project>{D66DAFFC-A41F-26C7-6E5E-D861D55E2BF0}</Project>
+      <Project>{3C7939D8-97E9-6C33-5B60-792840C73834}</Project>
       <Name>WindControl</Name>
     </ProjectReference>
   </ItemGroup>

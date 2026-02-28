@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{D2FD42AA-DDD9-7AA3-2702-28A30FC84E2A}</ProjectGuid>
+    <ProjectGuid>{39994E20-9417-CB5F-7C07-CDEC068F36E7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Hapki.Spatial</AssemblyName>

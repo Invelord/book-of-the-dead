@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{D66DAFFC-A41F-26C7-6E5E-D861D55E2BF0}</ProjectGuid>
+    <ProjectGuid>{3C7939D8-97E9-6C33-5B60-792840C73834}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>WindControl</AssemblyName>
@@ -1204,11 +1204,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="PropertyMaster.csproj">
-      <Project>{4C9EC328-97B3-F580-EE61-2F11E32389DD}</Project>
+      <Project>{D1B0C4B3-EAAD-7038-ACAD-F54AD777376F}</Project>
       <Name>PropertyMaster</Name>
     </ProjectReference>
     <ProjectReference Include="AxelF.csproj">
-      <Project>{43FD1278-F753-2358-8451-118CDC25F743}</Project>
+      <Project>{810FAA17-3A58-F38C-5B81-D02E1709F32D}</Project>
       <Name>AxelF</Name>
     </ProjectReference>
   </ItemGroup>

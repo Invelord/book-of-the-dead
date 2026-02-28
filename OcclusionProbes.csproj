@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{5C352315-DE0A-201C-FD85-927AB4CC2E79}</ProjectGuid>
+    <ProjectGuid>{8A636B62-6A8C-9271-08AC-1918E95BE527}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>OcclusionProbes</AssemblyName>

@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{6791DF52-028E-3AF2-6330-A999B4C65D9E}</ProjectGuid>
+    <ProjectGuid>{57502260-91EF-A0D0-7FC7-983E5A8B7903}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Hapki.Playables</AssemblyName>
@@ -1195,7 +1195,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Hapki.csproj">
-      <Project>{1A76A123-3E6E-F834-5BFB-ED57AB6212A4}</Project>
+      <Project>{78337DFF-15EE-4637-D4D7-71FBB2A76373}</Project>
       <Name>Hapki</Name>
     </ProjectReference>
   </ItemGroup>

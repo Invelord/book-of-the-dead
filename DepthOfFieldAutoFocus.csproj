@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{C55F0CEB-4A60-89C5-A820-05A83C69D4BB}</ProjectGuid>
+    <ProjectGuid>{67850824-4CCE-023C-37BB-2F986853F57D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>DepthOfFieldAutoFocus</AssemblyName>
@@ -1204,7 +1204,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="PropertyMaster.csproj">
-      <Project>{4C9EC328-97B3-F580-EE61-2F11E32389DD}</Project>
+      <Project>{D1B0C4B3-EAAD-7038-ACAD-F54AD777376F}</Project>
       <Name>PropertyMaster</Name>
     </ProjectReference>
   </ItemGroup>

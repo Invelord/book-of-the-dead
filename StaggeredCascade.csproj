@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{31672C0D-F257-C8E3-1A6E-69795C7605C0}</ProjectGuid>
+    <ProjectGuid>{C6438AC3-AAD8-95E4-1F01-B3B53C2EA957}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>StaggeredCascade</AssemblyName>
@@ -1202,7 +1202,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="LayerCulling.csproj">
-      <Project>{EDEDA44D-9787-70AE-B098-48264FC3DAB1}</Project>
+      <Project>{7BF4B41D-290A-E2A2-A6BA-6237269C91AC}</Project>
       <Name>LayerCulling</Name>
     </ProjectReference>
   </ItemGroup>

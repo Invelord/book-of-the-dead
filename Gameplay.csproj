@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{F497F57A-F37F-49D9-CA4C-EDA4F1D23FC4}</ProjectGuid>
+    <ProjectGuid>{8D54230B-FC0D-913B-0F2A-88C8263F19B1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Gameplay</AssemblyName>
@@ -1214,23 +1214,23 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="AxelF.csproj">
-      <Project>{43FD1278-F753-2358-8451-118CDC25F743}</Project>
+      <Project>{810FAA17-3A58-F38C-5B81-D02E1709F32D}</Project>
       <Name>AxelF</Name>
     </ProjectReference>
     <ProjectReference Include="TerrainFoley.csproj">
-      <Project>{07A02B1C-9EAB-C4FF-B999-3B1B14E29533}</Project>
+      <Project>{E0654C3F-FDEE-BEE6-7352-EDAB9794AEA1}</Project>
       <Name>TerrainFoley</Name>
     </ProjectReference>
     <ProjectReference Include="DepthOfFieldAutoFocus.csproj">
-      <Project>{C55F0CEB-4A60-89C5-A820-05A83C69D4BB}</Project>
+      <Project>{67850824-4CCE-023C-37BB-2F986853F57D}</Project>
       <Name>DepthOfFieldAutoFocus</Name>
     </ProjectReference>
     <ProjectReference Include="Hapki.Interpolation.csproj">
-      <Project>{3882640B-C76C-A675-9D6C-CE958E235552}</Project>
+      <Project>{D89E7880-9DDC-4B27-DB8B-6AECC5717684}</Project>
       <Name>Hapki.Interpolation</Name>
     </ProjectReference>
     <ProjectReference Include="Hapki.Solvers.csproj">
-      <Project>{8B2DC5D4-3410-32E0-3F6F-66F7AF5D8532}</Project>
+      <Project>{D14D069D-61AD-E055-57A1-E5D497166D82}</Project>
       <Name>Hapki.Solvers</Name>
     </ProjectReference>
   </ItemGroup>

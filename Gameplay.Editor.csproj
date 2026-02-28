@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{25FA1D64-1F3D-AA22-ADCF-8AD2BB38063E}</ProjectGuid>
+    <ProjectGuid>{A156E01D-8E4A-BCBE-0973-9C098823A84A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Gameplay.Editor</AssemblyName>
@@ -1210,7 +1210,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Gameplay.csproj">
-      <Project>{F497F57A-F37F-49D9-CA4C-EDA4F1D23FC4}</Project>
+      <Project>{8D54230B-FC0D-913B-0F2A-88C8263F19B1}</Project>
       <Name>Gameplay</Name>
     </ProjectReference>
   </ItemGroup>

@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{962F8BC6-6CAA-68EA-25DB-B43123A5E24E}</ProjectGuid>
+    <ProjectGuid>{55A64B49-2934-A9B6-C829-322E165D65FE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -1410,91 +1410,91 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Hapki.Editor.csproj">
-      <Project>{205F804C-02C2-8429-AE68-BD3E2C5E834F}</Project>
+      <Project>{22B789A8-6229-3E0B-95D7-E2D1F5D32235}</Project>
       <Name>Hapki.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Hapki.Spatial.csproj">
-      <Project>{D2FD42AA-DDD9-7AA3-2702-28A30FC84E2A}</Project>
+      <Project>{39994E20-9417-CB5F-7C07-CDEC068F36E7}</Project>
       <Name>Hapki.Spatial</Name>
     </ProjectReference>
     <ProjectReference Include="DepthOfFieldAutoFocus.csproj">
-      <Project>{C55F0CEB-4A60-89C5-A820-05A83C69D4BB}</Project>
+      <Project>{67850824-4CCE-023C-37BB-2F986853F57D}</Project>
       <Name>DepthOfFieldAutoFocus</Name>
     </ProjectReference>
     <ProjectReference Include="PropertyMaster.csproj">
-      <Project>{4C9EC328-97B3-F580-EE61-2F11E32389DD}</Project>
+      <Project>{D1B0C4B3-EAAD-7038-ACAD-F54AD777376F}</Project>
       <Name>PropertyMaster</Name>
     </ProjectReference>
     <ProjectReference Include="WindControl.csproj">
-      <Project>{D66DAFFC-A41F-26C7-6E5E-D861D55E2BF0}</Project>
+      <Project>{3C7939D8-97E9-6C33-5B60-792840C73834}</Project>
       <Name>WindControl</Name>
     </ProjectReference>
     <ProjectReference Include="Hapki.Solvers.csproj">
-      <Project>{8B2DC5D4-3410-32E0-3F6F-66F7AF5D8532}</Project>
+      <Project>{D14D069D-61AD-E055-57A1-E5D497166D82}</Project>
       <Name>Hapki.Solvers</Name>
     </ProjectReference>
     <ProjectReference Include="PropertyMaster.Editor.csproj">
-      <Project>{201485C9-5236-F6B6-A8BD-DFE3E898F521}</Project>
+      <Project>{56B6FE44-D651-5256-2F27-427C67DB3E03}</Project>
       <Name>PropertyMaster.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="TerrainEvo3Ed.csproj">
-      <Project>{2F47F4A9-007E-1F9D-F571-9341B746B9D9}</Project>
+      <Project>{059F1674-AD83-DB11-2C13-D2E73E7BBEAF}</Project>
       <Name>TerrainEvo3Ed</Name>
     </ProjectReference>
     <ProjectReference Include="TerrainFoley.csproj">
-      <Project>{07A02B1C-9EAB-C4FF-B999-3B1B14E29533}</Project>
+      <Project>{E0654C3F-FDEE-BEE6-7352-EDAB9794AEA1}</Project>
       <Name>TerrainFoley</Name>
     </ProjectReference>
     <ProjectReference Include="WindControlEd.csproj">
-      <Project>{83450D76-4A2C-F5E4-0EFC-F1D68C238813}</Project>
+      <Project>{ED578DE2-50E7-E7C7-1CF3-336E45E4030E}</Project>
       <Name>WindControlEd</Name>
     </ProjectReference>
     <ProjectReference Include="TerrainEvo3.csproj">
-      <Project>{39BCCFDA-DF76-40A8-D021-B24C4935BFA0}</Project>
+      <Project>{6405AB52-0E23-86B7-723C-3608D9384D6D}</Project>
       <Name>TerrainEvo3</Name>
     </ProjectReference>
     <ProjectReference Include="Gameplay.csproj">
-      <Project>{F497F57A-F37F-49D9-CA4C-EDA4F1D23FC4}</Project>
+      <Project>{8D54230B-FC0D-913B-0F2A-88C8263F19B1}</Project>
       <Name>Gameplay</Name>
     </ProjectReference>
     <ProjectReference Include="Hapki.csproj">
-      <Project>{1A76A123-3E6E-F834-5BFB-ED57AB6212A4}</Project>
+      <Project>{78337DFF-15EE-4637-D4D7-71FBB2A76373}</Project>
       <Name>Hapki</Name>
     </ProjectReference>
     <ProjectReference Include="LayerCulling.csproj">
-      <Project>{EDEDA44D-9787-70AE-B098-48264FC3DAB1}</Project>
+      <Project>{7BF4B41D-290A-E2A2-A6BA-6237269C91AC}</Project>
       <Name>LayerCulling</Name>
     </ProjectReference>
     <ProjectReference Include="OcclusionProbes.csproj">
-      <Project>{5C352315-DE0A-201C-FD85-927AB4CC2E79}</Project>
+      <Project>{8A636B62-6A8C-9271-08AC-1918E95BE527}</Project>
       <Name>OcclusionProbes</Name>
     </ProjectReference>
     <ProjectReference Include="OcclusionProbesEditor.csproj">
-      <Project>{05BC02C9-D39F-2B15-5658-080105AF8E1F}</Project>
+      <Project>{D39C5295-6907-0DF9-905C-102DB1228F69}</Project>
       <Name>OcclusionProbesEditor</Name>
     </ProjectReference>
     <ProjectReference Include="Hapki.Interpolation.csproj">
-      <Project>{3882640B-C76C-A675-9D6C-CE958E235552}</Project>
+      <Project>{D89E7880-9DDC-4B27-DB8B-6AECC5717684}</Project>
       <Name>Hapki.Interpolation</Name>
     </ProjectReference>
     <ProjectReference Include="Gameplay.Editor.csproj">
-      <Project>{25FA1D64-1F3D-AA22-ADCF-8AD2BB38063E}</Project>
+      <Project>{A156E01D-8E4A-BCBE-0973-9C098823A84A}</Project>
       <Name>Gameplay.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="AxelF.Editor.csproj">
-      <Project>{3C5B177C-AF6F-AE95-43B3-18AFE644926E}</Project>
+      <Project>{AB13B31A-0F53-9129-AE5F-64760DC03DB6}</Project>
       <Name>AxelF.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Hapki.Playables.csproj">
-      <Project>{6791DF52-028E-3AF2-6330-A999B4C65D9E}</Project>
+      <Project>{57502260-91EF-A0D0-7FC7-983E5A8B7903}</Project>
       <Name>Hapki.Playables</Name>
     </ProjectReference>
     <ProjectReference Include="AxelF.csproj">
-      <Project>{43FD1278-F753-2358-8451-118CDC25F743}</Project>
+      <Project>{810FAA17-3A58-F38C-5B81-D02E1709F32D}</Project>
       <Name>AxelF</Name>
     </ProjectReference>
     <ProjectReference Include="StaggeredCascade.csproj">
-      <Project>{31672C0D-F257-C8E3-1A6E-69795C7605C0}</Project>
+      <Project>{C6438AC3-AAD8-95E4-1F01-B3B53C2EA957}</Project>
       <Name>StaggeredCascade</Name>
     </ProjectReference>
   </ItemGroup>

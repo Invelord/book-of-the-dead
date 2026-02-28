@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{2F47F4A9-007E-1F9D-F571-9341B746B9D9}</ProjectGuid>
+    <ProjectGuid>{059F1674-AD83-DB11-2C13-D2E73E7BBEAF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>TerrainEvo3Ed</AssemblyName>
@@ -1214,7 +1214,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="TerrainEvo3.csproj">
-      <Project>{39BCCFDA-DF76-40A8-D021-B24C4935BFA0}</Project>
+      <Project>{6405AB52-0E23-86B7-723C-3608D9384D6D}</Project>
       <Name>TerrainEvo3</Name>
     </ProjectReference>
   </ItemGroup>

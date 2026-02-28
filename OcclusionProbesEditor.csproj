@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{05BC02C9-D39F-2B15-5658-080105AF8E1F}</ProjectGuid>
+    <ProjectGuid>{D39C5295-6907-0DF9-905C-102DB1228F69}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>OcclusionProbesEditor</AssemblyName>
@@ -1210,7 +1210,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="OcclusionProbes.csproj">
-      <Project>{5C352315-DE0A-201C-FD85-927AB4CC2E79}</Project>
+      <Project>{8A636B62-6A8C-9271-08AC-1918E95BE527}</Project>
       <Name>OcclusionProbes</Name>
     </ProjectReference>
   </ItemGroup>

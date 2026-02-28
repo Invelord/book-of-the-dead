@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{3C5B177C-AF6F-AE95-43B3-18AFE644926E}</ProjectGuid>
+    <ProjectGuid>{AB13B31A-0F53-9129-AE5F-64760DC03DB6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>AxelF.Editor</AssemblyName>
@@ -1223,7 +1223,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="AxelF.csproj">
-      <Project>{43FD1278-F753-2358-8451-118CDC25F743}</Project>
+      <Project>{810FAA17-3A58-F38C-5B81-D02E1709F32D}</Project>
       <Name>AxelF</Name>
     </ProjectReference>
   </ItemGroup>
